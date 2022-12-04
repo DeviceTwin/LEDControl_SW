@@ -1,4 +1,4 @@
-# ControlUnit_SW
+# LEDControl_SW
 This software dimmer LED light.<br>
 LED brighteness is setting using potentiometer. Potentiometer is connected to pin 26 and it's position reads by using AD converter.<br>
 LED is connected to pin 14 and it's brightness depends on position of potentimeter (value of AD converter).
